@@ -1,0 +1,14 @@
+@charset "utf-8";
+.Shoesname_price {
+	font-family: Verdana, Geneva, sans-serif;
+	color: #000;
+	text-decoration: blink;
+	font-style: normal;
+	text-transform: none;
+	cursor: default;
+	-webkit-transition: all 2s ease-out 3s;
+	-moz-transition: all 2s ease-out 3s;
+	-ms-transition: all 2s ease-out 3s;
+	-o-transition: all 2s ease-out 3s;
+	transition: all 2s ease-out 3s;
+}

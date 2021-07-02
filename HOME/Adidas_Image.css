@@ -1,0 +1,12 @@
+@charset "utf-8";
+.Adidas_image {
+	-webkit-transition: all 2s ease-out 3s;
+	-moz-transition: all 2s ease-out 3s;
+	-ms-transition: all 2s ease-out 3s;
+	-o-transition: all 2s ease-out 3s;
+	transition: all 2s ease-out 3s;
+	text-decoration: blink;
+	font-style: normal;
+	font-variant: normal;
+	text-transform: none;
+}
